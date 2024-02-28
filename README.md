@@ -62,6 +62,6 @@ pip install --quiet --upgrade diffusers transformers accelerate invisible_waterm
 
 **Example**
 
-[Imagen of a hand-drawn sketch]** --> [Imagen of a detailed vectorized key chain illustration]**
+![Imagen del proyecto](./download.png) --> ![Imagen del proyecto](./download(1).png)
 
 
