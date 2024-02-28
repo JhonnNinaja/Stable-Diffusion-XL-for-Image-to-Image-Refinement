@@ -62,6 +62,6 @@ pip install --quiet --upgrade diffusers transformers accelerate invisible_waterm
 
 **Example**
 
-![Imagen del proyecto](./download.png) --> ![Imagen del proyecto](./download(1).png)
+![Imagen del proyecto](./download.png) --> ![Imagen del proyecto](./download (1).png)
 
 
